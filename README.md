@@ -1,2 +1,2 @@
 # C
-Exercício em C da faculdade
+Exercícios em C da faculdade.
