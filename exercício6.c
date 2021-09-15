@@ -26,5 +26,4 @@ printf ("A soma é: %g\n",som);
 printf ("A subtração é: %g\n",sub);
 printf ("A multiplicação é: %g\n",mul);
 printf ("A divisão é: %.2f\n",divi);
-return 0;
 }
