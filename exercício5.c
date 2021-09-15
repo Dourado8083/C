@@ -18,5 +18,4 @@ int main()
    
    soma = (idade1 + idade2 + idade3) / 3;
    printf ("A media de idade é %g",soma);
-    return 0;
 }
